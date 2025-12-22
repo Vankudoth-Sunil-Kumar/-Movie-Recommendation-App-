@@ -1,4 +1,4 @@
-# -Movie-Recommendation-App-
+# Movie-Recommendation-App
 🎬 Content-Based Movie Recommendation System
 📝 Overview:
 ------------
