@@ -1,6 +1,6 @@
 # Movie-Recommendation-App
 🎬 Content-Based Movie Recommendation System
-📝 Overview:
+📝 Overview
 ------------
 This project implements a content-based movie recommendation system that suggests movies similar to a given title using movie metadata (genres, keywords, and plot descriptions). It leverages:
 
